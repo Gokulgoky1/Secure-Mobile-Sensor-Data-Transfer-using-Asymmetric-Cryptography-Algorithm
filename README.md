@@ -26,6 +26,6 @@ The Aim of this project is to Transfer Mobile Sensor Data using Asymmetric Crypt
 
 ![image](https://user-images.githubusercontent.com/99113503/228792118-06c4e214-0111-47e2-9e49-af060fa3ab2e.png)
 
-## ENCRYPTION                                            DECRYPTION![image](https://user-images.githubusercontent.com/99113503/228792317-d752524e-2379-4d34-a05d-0a7e2998402b.png)
+## ENCRYPTION                                                                                                      DECRYPTION![image](https://user-images.githubusercontent.com/99113503/228792317-d752524e-2379-4d34-a05d-0a7e2998402b.png)
 
 
