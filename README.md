@@ -60,7 +60,7 @@ __Secondly\, a database administrator will get the cipher from the database \(da
 
 - __Encrypt the data using ECC public Key__
 
-- __DECRYPTION__
+## __DECRYPTION__
 
 - __Decrypt the data using ECC private Key__
 
@@ -75,8 +75,6 @@ __Secondly\, a database administrator will get the cipher from the database \(da
 __The process on right side can be directly applied for the RSA cryptosystem\, but not for the ECC\. The elliptic curve cryptography \(ECC\) does not directly provide encryption method\. Instead\, we can design a __  __hybrid encryption scheme__  __ by using the ECDH \(Elliptic Curve Diffie–Hellman\) key exchange scheme to derive a shared secret key for symmetric data encryption and decryption\.__
 
 # HYBRID ENCRYPTION SCHEME-WORKING
-
-
 
 ## Encryption Process
 ![image](https://user-images.githubusercontent.com/99113503/228796421-374f9a25-53ae-4fd5-a1f0-63d58336a72f.png)
